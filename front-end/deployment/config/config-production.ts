@@ -6,7 +6,7 @@ const HOSTED_URL = 'https://public.domain.com';
 const configProduction = {
   HOSTED_URL,
   MODE: 'PRODUCTION',
-  REGION: 'eu-west-1',
+  REGION: 'us-east-1',
   REDIRECT_SIGN_IN: `${HOSTED_URL}/`,
   REDIRECT_SIGN_OUT: `${HOSTED_URL}/signout/`,
   AUTHENTICATION_TYPE: 'AWS_IAM' as const,
