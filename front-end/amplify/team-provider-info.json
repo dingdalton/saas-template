@@ -1,33 +1,20 @@
 {
   "dev": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-neatsheets-dev-140531-authRole",
-      "UnauthRoleArn": "arn:aws:iam::077127679951:role/amplify-neatsheets-dev-140531-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::077127679951:role/amplify-neatsheets-dev-140531-authRole",
+      "AuthRoleName": "amplify-neatsheets-dev-164031-authRole",
+      "UnauthRoleArn": "arn:aws:iam::077127679951:role/amplify-neatsheets-dev-164031-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::077127679951:role/amplify-neatsheets-dev-164031-authRole",
       "Region": "us-east-1",
-      "DeploymentBucketName": "amplify-neatsheets-dev-140531-deployment",
-      "UnauthRoleName": "amplify-neatsheets-dev-140531-unauthRole",
-      "StackName": "amplify-neatsheets-dev-140531",
-      "StackId": "arn:aws:cloudformation:us-east-1:077127679951:stack/amplify-neatsheets-dev-140531/cbe05d20-98fd-11ed-a197-0ad00af538c7",
-      "AmplifyAppId": "d3uusb90s25qx"
-    }
-  },
-  "neatsheets": {
-    "awscloudformation": {
-      "AuthRoleName": "amplify-neatsheets-neatsheets-144641-authRole",
-      "UnauthRoleArn": "arn:aws:iam::077127679951:role/amplify-neatsheets-neatsheets-144641-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::077127679951:role/amplify-neatsheets-neatsheets-144641-authRole",
-      "Region": "us-east-1",
-      "DeploymentBucketName": "amplify-neatsheets-neatsheets-144641-deployment",
-      "UnauthRoleName": "amplify-neatsheets-neatsheets-144641-unauthRole",
-      "StackName": "amplify-neatsheets-neatsheets-144641",
-      "StackId": "arn:aws:cloudformation:us-east-1:077127679951:stack/amplify-neatsheets-neatsheets-144641/8c5c1530-9903-11ed-9bf0-12c701524fad",
-      "AmplifyAppId": "d32onvyue9xq9w"
+      "DeploymentBucketName": "amplify-neatsheets-dev-164031-deployment",
+      "UnauthRoleName": "amplify-neatsheets-dev-164031-unauthRole",
+      "StackName": "amplify-neatsheets-dev-164031",
+      "StackId": "arn:aws:cloudformation:us-east-1:077127679951:stack/amplify-neatsheets-dev-164031/72f3ebd0-9913-11ed-a2ca-0e22ccdff659",
+      "AmplifyAppId": "divgl1cwzviss"
     },
     "categories": {
       "hosting": {
         "amplifyhosting": {
-          "appId": "d32onvyue9xq9w",
+          "appId": "divgl1cwzviss",
           "type": "cicd"
         }
       }

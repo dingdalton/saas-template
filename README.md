@@ -159,6 +159,9 @@ Next, run the command:
 
 ### Add hosting
 
+** NOTE: I tried these steps but they weren't clear. You must click the monorepo checkbox during the setup and use front-end folder only. Otherwise the wrong type is detected
+Recommend following this link [https://aws.amazon.com/blogs/mobile/amplify-next-js-13/](https://aws.amazon.com/blogs/mobile/amplify-next-js-13/)
+
 Finally, setup hosting for the front-end:  
 `amplify hosting add`
 
